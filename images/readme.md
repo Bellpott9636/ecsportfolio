@@ -9,7 +9,7 @@
    <body>
       <div class="container">
          <div class="header">
-            <h1>ECS Portfolio | ECS Projects | </h1>
+            <h1>ECS Portfolio | Bellasera Potter | </h1>
          </div>
          <div class="nav">
             <h3><a href="index.html">Home</a> | <a href="index.html">ECS</a> |<a href="index.html">music</a></h3>
