@@ -15,7 +15,7 @@
             <h3><a href="index.html">Home</a> | <a href="index.html">ECS</a> |<a href="index.html">music</a></h3>
          </div>
          <div class="content">
-            <p>Hello World!</p>
+     
          </div>
          <div class="footer">
             <h4>About Me | Contact | Copyright 2021</h4>
