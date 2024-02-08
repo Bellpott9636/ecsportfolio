@@ -21,7 +21,7 @@ body {
 	
 }
 .nav {
-	background: #F5CEB3;
+	background: #7688B0;
 	margin: 0px;
 	padding: 5;
 	float: left;
@@ -46,10 +46,10 @@ body {
 	text-align: center;
 }
 a:link {
-     color: #8E82B0;
+     color: +#694278;
 }
 a:visited {
-     color: #F5EA7D;
+     color: #601278;
 }
 a:hover, a:active, a:focus { 
      text-decoration: underline;
